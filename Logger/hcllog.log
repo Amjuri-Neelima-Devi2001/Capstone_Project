@@ -1,0 +1,15 @@
+2023-03-15 12:17:25,094-root-DEBUG-hello from debug
+2023-03-15 12:17:25,094-root-INFO-hello from info
+2023-03-15 12:17:25,094-root-WARNING-hello from warning
+2023-03-15 12:17:25,094-root-ERROR-hello from error
+2023-03-15 12:17:25,094-root-CRITICAL-hello from critical
+2023-03-15 12:28:01,785-root-DEBUG-hello from debug
+2023-03-15 12:28:01,785-root-INFO-hello from info
+2023-03-15 12:28:01,785-root-WARNING-hello from warning
+2023-03-15 12:28:01,786-root-ERROR-hello from error
+2023-03-15 12:28:01,786-root-CRITICAL-hello from critical
+2023-03-15 12:33:27,751-root-ERROR-division by zero
+Traceback (most recent call last):
+  File "C:\Capstone_Project\Logger\demologger.py", line 6, in <module>
+    print(a/b)
+ZeroDivisionError: division by zero

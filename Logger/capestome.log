@@ -1,0 +1,188 @@
+2023-03-15 15:33:17,040-root-INFO-myhcl database is connected
+2023-03-15 15:33:17,043-root-INFO-Not found in Database
+2023-03-15 15:33:17,044-root-INFO-Now searching in Drives
+2023-03-15 15:34:03,122-root-INFO-myhcl database is connected
+2023-03-15 15:34:03,124-root-INFO-Not found in Database
+2023-03-15 15:34:03,125-root-INFO-Now searching in Drives
+2023-03-15 15:34:03,125-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-15 15:35:03,136-root-INFO-myhcl database is connected
+2023-03-15 15:35:03,138-root-INFO-Not found in Database
+2023-03-15 15:35:03,138-root-INFO-Now searching in Drives
+2023-03-15 15:35:03,149-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-15 15:36:40,343-root-INFO-myhcl database is connected
+2023-03-15 15:36:40,346-root-INFO-Not found in Database
+2023-03-15 15:36:40,346-root-INFO-Now searching in Drives
+2023-03-15 15:36:40,346-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-15 15:36:40,346-root-INFO-files found None
+2023-03-15 15:37:35,283-root-INFO-myhcl database is connected
+2023-03-15 15:37:35,285-root-INFO-Not found in Database
+2023-03-15 15:37:35,285-root-INFO-Now searching in Drives
+2023-03-15 15:37:35,286-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-15 15:37:35,286-root-INFO-files found None
+2023-03-15 15:37:35,286-root-INFO-time taken0.0
+2023-03-15 15:37:35,286-root-INFO-Ending
+2023-03-15 16:00:41,792-root-INFO-myhcl database is connected
+2023-03-15 16:00:41,797-root-INFO-Not found in Database
+2023-03-15 16:00:41,797-root-INFO-Now searching in Drives
+2023-03-15 16:00:41,797-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-15 16:06:58,629-root-INFO-myhcl database is connected
+2023-03-15 16:06:58,631-root-INFO-Not found in Database
+2023-03-15 16:06:58,632-root-INFO-Now searching in Drives
+2023-03-15 16:06:58,632-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-15 16:08:53,933-root-INFO-myhcl database is connected
+2023-03-15 16:08:53,936-root-INFO-Not found in Database
+2023-03-15 16:08:53,936-root-INFO-Now searching in Drives
+2023-03-15 16:08:53,937-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-15 16:09:04,433-root-INFO-files found ['c://Users\\user335\\Documents\\Virtual Machines\\Linux-1\\Linux-1.nvram']
+2023-03-15 16:09:04,433-root-INFO-time taken10.497185468673706
+2023-03-15 16:09:04,434-root-INFO-Ending
+2023-03-16 10:20:46,747-root-INFO-myhcl database is connected
+2023-03-16 10:20:46,750-root-INFO-Not found in Database
+2023-03-16 10:20:46,750-root-INFO-Now searching in Drives
+2023-03-16 10:20:46,750-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 10:21:00,198-root-INFO-files found []
+2023-03-16 10:21:00,198-root-INFO-time taken13.44722604751587
+2023-03-16 10:21:00,198-root-INFO-Ending
+2023-03-16 10:21:20,124-root-INFO-myhcl database is connected
+2023-03-16 10:21:20,126-root-INFO-Not found in Database
+2023-03-16 10:21:20,127-root-INFO-Now searching in Drives
+2023-03-16 10:21:20,127-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 10:21:32,947-root-INFO-files found ['c://Users\\user335\\Documents\\Virtual Machines\\Linux-1\\Linux-1.nvram']
+2023-03-16 10:21:32,948-root-INFO-time taken12.820280075073242
+2023-03-16 10:21:32,948-root-INFO-Ending
+2023-03-16 11:16:34,956-root-INFO-myhcl database is connected
+2023-03-16 11:16:34,960-root-INFO-Not found in Database
+2023-03-16 11:16:34,960-root-INFO-Now searching in Drives
+2023-03-16 11:16:34,960-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:18:21,562-root-INFO-myhcl database is connected
+2023-03-16 11:18:21,564-root-INFO-Not found in Database
+2023-03-16 11:18:21,565-root-INFO-Now searching in Drives
+2023-03-16 11:18:21,565-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:47:08,878-root-INFO-myhcl database is connected
+2023-03-16 11:47:08,881-root-INFO-Not found in Database
+2023-03-16 11:47:08,881-root-INFO-Now searching in Drives
+2023-03-16 11:47:08,881-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:47:55,598-root-INFO-myhcl database is connected
+2023-03-16 11:47:55,601-root-INFO-Not found in Database
+2023-03-16 11:47:55,601-root-INFO-Now searching in Drives
+2023-03-16 11:47:55,601-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:52:22,354-root-INFO-myhcl database is connected
+2023-03-16 12:11:12,249-root-INFO-myhcl database is connected
+2023-03-16 12:14:00,850-root-INFO-myhcl database is connected
+2023-03-16 12:14:54,185-root-INFO-myhcl database is connected
+2023-03-16 12:14:54,189-root-INFO-Not found in Database
+2023-03-16 12:14:54,189-root-INFO-Now searching in Drives
+2023-03-16 12:14:54,191-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 12:16:30,184-root-INFO-myhcl database is connected
+2023-03-16 12:16:30,186-root-INFO-Not found in Database
+2023-03-16 12:16:30,186-root-INFO-Now searching in Drives
+2023-03-16 12:16:30,186-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 12:18:01,825-root-INFO-myhcl database is connected
+2023-03-16 12:18:01,827-root-INFO-Not found in Database
+2023-03-16 12:18:01,827-root-INFO-Now searching in Drives
+2023-03-16 12:18:01,827-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 12:18:14,303-root-INFO-time taken12.476358890533447
+2023-03-16 12:18:14,304-root-INFO-Ending
+2023-03-16 12:18:41,500-root-INFO-myhcl database is connected
+2023-03-16 17:57:28,669-root-INFO-myhcl database is connected
+2023-03-16 17:57:28,672-root-INFO-Not found in Database
+2023-03-16 17:57:28,673-root-INFO-Now searching in Drives
+2023-03-16 17:57:28,674-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 18:04:42,784-root-INFO-Drive name c:// file name unit_testin_prg1
+2023-03-16 18:04:42,785-root-INFO-class used SearchFile
+2023-03-16 18:04:42,913-root-INFO-myhcl database is connected
+2023-03-16 18:04:42,916-root-INFO-Not found in Database
+2023-03-16 18:04:42,917-root-INFO-Now searching in Drives
+2023-03-16 18:04:42,917-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 18:05:30,820-root-INFO-Drive name c:// file name unit_testin_prg1
+2023-03-16 18:05:30,821-root-INFO-class used SearchFile
+2023-03-16 18:05:30,953-root-INFO-myhcl database is connected
+2023-03-16 18:05:30,956-root-INFO-Not found in Database
+2023-03-16 18:05:30,957-root-INFO-Now searching in Drives
+2023-03-16 18:05:30,957-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 18:06:44,383-root-INFO-Drive name c:// file name unit_testin_prg1
+2023-03-16 18:06:44,384-root-INFO-class used SearchFile
+2023-03-16 18:06:44,464-root-INFO-myhcl database is connected
+2023-03-16 18:06:44,466-root-INFO-Not found in Database
+2023-03-16 18:06:44,466-root-INFO-Now searching in Drives
+2023-03-16 18:06:44,466-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 18:07:28,911-root-INFO-Drive name c:// file name unit_testin_prg1
+2023-03-16 18:07:28,911-root-INFO-class used SearchFile
+2023-03-16 18:07:29,028-root-INFO-myhcl database is connected
+2023-03-16 18:07:29,030-root-INFO-Not found in Database
+2023-03-16 18:07:29,030-root-INFO-Now searching in Drives
+2023-03-16 18:07:29,030-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 18:07:40,393-root-INFO-files found []
+2023-03-16 18:07:40,395-root-INFO-time taken11.365091562271118
+2023-03-16 18:07:40,395-root-INFO-Ending
+2023-03-16 18:08:35,749-root-INFO-Drive name c:// file name bootres.dll.mui
+2023-03-16 18:08:35,750-root-INFO-class used SearchFile
+2023-03-16 18:08:35,881-root-INFO-myhcl database is connected
+2023-03-16 18:08:35,885-root-INFO-Not found in Database
+2023-03-16 18:08:35,885-root-INFO-Now searching in Drives
+2023-03-16 18:08:35,886-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 18:08:48,416-root-INFO-files found ['c://Windows\\Boot\\Resources\\en-US\\bootres.dll.mui', 'c://Windows\\WinSxS\\amd64_microsoft-windows-bootres.resources_31bf3856ad364e35_10.0.15063.0_en-us_f2d941c88f702f51\\bootres.dll.mui']
+2023-03-16 18:08:48,419-root-INFO-time taken12.5340416431427
+2023-03-16 18:08:48,419-root-INFO-Ending
+2023-03-16 18:13:37,163-root-INFO-Drive name c:/ file name neel.xlsx
+2023-03-16 18:13:37,163-root-INFO-class used SearchFile
+2023-03-16 18:13:37,274-root-INFO-myhcl database is connected
+2023-03-16 18:13:37,276-root-INFO-Not found in Database
+2023-03-16 18:13:37,276-root-INFO-Now searching in Drives
+2023-03-16 18:13:37,276-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 18:13:49,652-root-INFO-files found ['c:/Users\\user335\\Documents\\Virtual Machines\\Linux-1\\neel.xlsx']
+2023-03-16 18:13:49,653-root-INFO-time taken12.377634286880493
+2023-03-16 18:13:49,654-root-INFO-Ending
+2023-03-17 15:29:18,115-root-INFO-Drive name c:// file name Linux-1.nvram
+2023-03-17 15:29:18,117-root-INFO-class used SearchFile
+2023-03-17 15:29:18,231-root-INFO-myhcl database is connected
+2023-03-17 15:29:18,234-root-INFO-Not found in Database
+2023-03-17 15:29:18,234-root-INFO-Now searching in Drives
+2023-03-17 15:29:18,235-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-17 15:30:28,727-root-INFO-Drive name c:// file name Linux-1.nvram
+2023-03-17 15:30:28,727-root-INFO-class used SearchFile
+2023-03-17 15:30:28,835-root-INFO-myhcl database is connected
+2023-03-17 15:30:28,837-root-INFO-Not found in Database
+2023-03-17 15:30:28,837-root-INFO-Now searching in Drives
+2023-03-17 15:30:28,838-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-17 15:30:41,220-root-INFO-files found ['c://Users\\user335\\Documents\\Virtual Machines\\Linux-1\\Linux-1.nvram']
+2023-03-17 15:30:41,222-root-INFO-time taken12.385601282119751
+2023-03-17 15:30:41,222-root-INFO-Ending
+2023-03-17 15:34:22,377-root-INFO-Drive name C;// file name Linux-1.nvram
+2023-03-17 15:34:22,378-root-INFO-class used SearchFile
+2023-03-17 15:35:38,622-root-INFO-Drive name c:// file name Linux-1.nvram
+2023-03-17 15:35:38,623-root-INFO-class used SearchFile
+2023-03-17 15:35:38,732-root-ERROR-1049 (42000): Unknown database 'mysql1'
+Traceback (most recent call last):
+  File "C:\Capstone_Project\venv\lib\site-packages\mysql\connector\connection_cext.py", line 288, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown database 'mysql1'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Capstone_Project\Userinterface\Search.py", line 22, in userdata
+    dbobj.Connect("localhost",'root',"Neelima@2001",'mysql1',3306)
+  File "C:\Capstone_Project\SearchinDB\DBConnection.py", line 12, in Connect
+    self.connect=mysql.connector.Connect(host= self.hostname,username=self.username,password=self.password,database=self.database,port=self.port)
+  File "C:\Capstone_Project\venv\lib\site-packages\mysql\connector\pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "C:\Capstone_Project\venv\lib\site-packages\mysql\connector\connection_cext.py", line 118, in __init__
+    self.connect(**kwargs)
+  File "C:\Capstone_Project\venv\lib\site-packages\mysql\connector\abstracts.py", line 1178, in connect
+    self._open_connection()
+  File "C:\Capstone_Project\venv\lib\site-packages\mysql\connector\connection_cext.py", line 293, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1049 (42000): Unknown database 'mysql1'
+2023-03-18 18:25:27,657-root-INFO-Drive name C file name c://
+2023-03-18 18:25:27,658-root-INFO-class used SearchFile
+2023-03-18 18:25:27,809-root-INFO-myhcl database is connected
+2023-03-18 18:25:27,812-root-INFO-Not found in Database
+2023-03-18 18:25:27,812-root-INFO-Now searching in Drives
+2023-03-18 18:25:27,812-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-18 18:25:27,863-root-INFO-files found []
+2023-03-18 18:25:27,864-root-INFO-time taken0.05217623710632324
+2023-03-18 18:25:27,865-root-INFO-Ending
+2023-03-18 18:27:17,464-root-INFO-Drive name c:// file name Linux-1.nvram
+2023-03-18 18:27:17,465-root-INFO-class used SearchFile
+2023-03-18 18:27:17,587-root-INFO-myhcl database is connected
